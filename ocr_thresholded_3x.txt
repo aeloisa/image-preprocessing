@@ -1,0 +1,240 @@
+(SUFFIXO)
+OPTION
+SIZEs
+-P -27-
+BSpp (Parallei) Thread Connecton
+1/4* to 2"
+-T -27-
+8SpT (Tapered) Thread Connecton
+1V/4" to 2"
+#10-24 UNC
+-20-
+Stem Grounded
+1/4" to 3"
+-0-
+Stoel Toe Hando
+1/4" to 2"
+-08
+90t Reversed Stem
+1/4" to 3"
+M
+-0-
+SS Lever & Nut
+1/4" to 3*
+G
+-4-
+Side Vented Ball (Uni-Directionsl)
+1/4" to 3"
+-oL
+-15-
+Whee Handle, Steel
+1/4" to 2"
+E
+-16-
+Chain Lever - Vertical
+3/4" to 2"
+8
+-18-
+Plain Yellow Grip
+1/4" to 3"
+-19-
+Lock Plate
+1/4" to 2"
+H
+D
+Graphite pacdng. PTFE body seal, RPTFE bearng
+-24-
+1/4" to 3"
+(Fre Safe AP1 607. Sth edition, IS0 10497-52004)
+K
+-27-
+standard confguration, SS latch-lock level & nut
+1/4" to 3"
+N
+-30-
+Cam- Lock and Grounded
+1/4" to 2"
+-32-
+SS Tee Harale & Nut
+1/4" to 2"
+A
+10
+-35-
+PIFE Trm
+1/4" to 3"
+B
+-39
+SS H-Rise Locking Wheel Handie, SS Nut
+1/4" to 2"
+4r
+Cyl-Loc and Grounded
+1/4" to 2"
+-4S-
+Less Lever & Nut
+1/4" to 3"
+-46-
+Latch Lock Lever - Lock in Closed Position Only
+1/4" to 3"
+STANDaRd MaTERIaL LIST
+-47-
+SS Ovd Latch-Lock Handle & Nut
+1/4" to 1'
+-48-
+SS Oval Handle (No Latch) & Nut
+1/4" to 2"
+PART
+MATERIAL
+49
+No Lubrication, Assembled Dry.
+1/4" to 3"
+1
+Lever and grip
+Steel, zinc plated w/vinyl
+-50-
+2,25^ CS Locking Stem Extenslon
+1/4" to 3"
+2
+Stem packing
+MPTfE
+-56-
+Muttifill Seats & Packing
+1/4" to 3"
+3
+Stem bearing
+RPTFE
+-58f
+Chain Lever - Horizontol
+3/4" to 2"
+4
+Ball
+A108-CS chrome plated or A276-316 SS
+J60-
+Statc Grounded Bal & Stem
+1/4" to 3"
+5
+Seat (2)
+RPTFE
+250# Steam Trim (MPTFE Seats & Packing)
+6
+Retainer
+A216-WC8 Carbon Stee
+-64-
+1/4" to 3*
+Use with 316 SS 8al & Stem Variation
+7
+Gand nut
+A108 Carbon Steel
+-67-
+Cleaned for Industrial Gases
+1V/4" to 3"
+8
+Stem
+A108-CS or A276-316 SS
+-GS
+CSA CGA 3.16
+AlI
+9
+Lever nut
+Steel, zinc plated
+10
+Body sea
+PTFE
+Pressure/Temperature Ratings - Page M-14, Graph No. 13
+n
+Body
+A216-WC8 Carbon Stee
+DIMENSIONS
+PRoDUCt NO.
+Size
+A
+B
+C
+D
+E
+F
+H
+K
+L
+M
+N
+WT.
+89-10'-27A
+V4"
+0.37
+1.02
+2.05
+171
+3.85
+0.50
+1.12
+0.88
+0.34
+0.53
+0.375
+0.234
+1.16
+0.58
+89-102-27A
+3/8
+0.37
+1.02
+2.05
+171
+3.85
+0.50
+1.12
+0.88
+0.34
+0.53
+0.375
+0.234
+1.16
+0.55
+89-103-27A
+1/2"
+0.50
+1.12
+2.23
+179
+3.85
+0.50
+1.12
+06'0
+0.34
+0.59
+0.37S
+0.234
+1.38
+0.63
+89-104-27A
+3/4n
+0.68
+1.47
+2.96
+2.03
+4.75
+0.87
+1.37
+1.02
+0.42
+0.78
+0.437
+0.256
+175
+1.30
+89-105-27A
+1
+0.87
+1.67
+3.34
+216
+4.75
+0.87
+137
+1.02
+0.42
+16'0
+0.437
+0.256
+1.94
+1.60
